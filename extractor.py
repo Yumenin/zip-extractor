@@ -1,6 +1,6 @@
 import os
 import zipfile
-
+# change master directory to a valid path with zips file in it for it to work
 master_directory = ""
 
 def start(masterdir):
